@@ -122,12 +122,12 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:024370_0000_0FC629595885B1D8"/>
-            <pb facs="tcp:024370_0001_0FC79A172FAF9888"/>
+            <pb facs="unknown:024370_0000_0FC629595885B1D8"/>
+            <pb facs="unknown:024370_0001_0FC79A172FAF9888"/>
             <p>GURNEY's BRACHYGRAPHY, IMPROVED. Price, ONE DOLLAR.</p>
          </div>
          <div type="illustration">
-            <pb facs="tcp:024370_0002_0FC79A18250660D8"/>
+            <pb facs="unknown:024370_0002_0FC79A18250660D8"/>
             <p>
                <figure>
                   <head>M<hi rend="sup">r</hi>. THOM GURNEY</head>
@@ -140,7 +140,7 @@
             <l>And thought <hi>Inchantment</hi> dwelt in ev'ry Line.</l>
          </div>
          <div type="title_page">
-            <pb facs="tcp:024370_0003_0FC79A199F000518"/>
+            <pb facs="unknown:024370_0003_0FC79A199F000518"/>
             <p>AN EASY AND COMPENDIOUS SYSTEM OF Short-Hand; ADAPTED TO THE ARTS AND SCIENCES, AND TO THE LEARNED PROFESSIONS.</p>
             <p>FOR THE USE OF SCHOOLS.</p>
             <p>ABSTRACTED FROM THE LARGER EDITION.</p>
@@ -153,7 +153,7 @@
             <p>PHILADELPHIA: PRINTED BY <hi>T. LANG;</hi> SOLD BY T. DOBSON. 1792.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:024370_0004_0FC79A1B1D62ACB0"/>
+            <pb facs="unknown:024370_0004_0FC79A1B1D62ACB0"/>
             <head>ADVERTISEMENT.</head>
             <p>IT has frequently been represented by the Directors of some of our Seminaries of Learning, by Booksellers, and others, that the Knowledge and Practice of <hi>Gur<g ref="char:EOLhyphen"/>ney's</hi> Method of Short-Hand writing, of which an <hi>American</hi> Edition has lately been laid before the Public, would be more generally diffused by an Abridgment of that Treatise; so that the Art may appear to be com<g ref="char:EOLhyphen"/>prised in fewer pages, and consequently be attained with less Labor to the Student, and the Purchase be so in<g ref="char:EOLhyphen"/>considerable, as to be no obstacle to the Sale.</p>
             <p>The present selection from the larger work, has been made in Compliance with these representations: It con<g ref="char:EOLhyphen"/>tains the <hi>whole theory</hi> of the Art in the First, Se<g ref="char:EOLhyphen"/>cond, Fifth, and Sixth Plates; a <hi>sufficient Number</hi> of Specimens of the Practice, in the Third, Fourth, Seventh, Eighth, and Tenth; together with <hi>all</hi> the necessary Explanations and Directions.</p>
@@ -169,7 +169,7 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:024370_0005_0FC79A2C68688738"/>
+            <pb facs="unknown:024370_0005_0FC79A2C68688738"/>
             <head>A SYSTEM OF Short-Hand.</head>
             <div n="1" type="article">
                <head>ARTICLE I.</head>
@@ -189,7 +189,7 @@
                <p n="1">1. That the Characters be as <hi>simple</hi> as possible, in or<g ref="char:EOLhyphen"/>der to their being WRITTEN with Facility—And,</p>
                <p n="2">2 That they be so <hi>distinct</hi> as to be READ with Ease at any distance of Time.</p>
                <p>
-                  <pb n="6" facs="tcp:024370_0006_0FC79A2E10991988"/>Hence a system, which boasts of <hi>few Characters,</hi> as each must necessarily stand for more words, will be found <hi>undistinct</hi> and <hi>ambiguous.</hi> On the other hand, such a variety of Multiform and Complex Characters, to render it more <hi>legible,</hi> may be introduced, as will annihilate all pre<g ref="char:EOLhyphen"/>tensions to <hi>expedition</hi> and <hi>brevity.</hi> Each Extreme has been mistaken for that Excellence, which consists in a Me<g ref="char:EOLhyphen"/>dium, equally remote from both.</p>
+                  <pb n="6" facs="unknown:024370_0006_0FC79A2E10991988"/>Hence a system, which boasts of <hi>few Characters,</hi> as each must necessarily stand for more words, will be found <hi>undistinct</hi> and <hi>ambiguous.</hi> On the other hand, such a variety of Multiform and Complex Characters, to render it more <hi>legible,</hi> may be introduced, as will annihilate all pre<g ref="char:EOLhyphen"/>tensions to <hi>expedition</hi> and <hi>brevity.</hi> Each Extreme has been mistaken for that Excellence, which consists in a Me<g ref="char:EOLhyphen"/>dium, equally remote from both.</p>
             </div>
             <div n="5" type="article">
                <head>V.</head>
@@ -201,7 +201,7 @@
                <p>From some years Attention in Teaching, and from Hints and Communications from several Proficients in the Art, the present Editor has been enabled to reduce the Plan to an entire New Method, and to add a variety of Directions for its attainment; and he flatters himself that he has the Honor to present THE SYSTEM to the Professional Gentle<g ref="char:EOLhyphen"/>men of the American States in such a degree of Perfection as to be scarcely capable of further Improvement.</p>
             </div>
             <div type="contents_of_plate">
-               <pb n="7" facs="tcp:024370_0007_0FC79A2F6AA21FA0"/>
+               <pb n="7" facs="unknown:024370_0007_0FC79A2F6AA21FA0"/>
                <head>PLATE THE FIRST.</head>
                <p>
                   <hi>CONTENTS.</hi> The Alphabet, and the Method of com<g ref="char:EOLhyphen"/>bining Letters into Words.</p>
@@ -221,7 +221,7 @@
                <p>The other Letters are all Compound Characters. As, for instance, B is composed of part of <hi>a</hi> and <hi>t;</hi> E of part of <hi>d</hi> and <hi>a;</hi> F of part of <hi>m</hi> and <hi>t,</hi> &amp;c.</p>
             </div>
             <div n="9" type="article">
-               <pb n="8" facs="tcp:024370_0008_0FC629723A165C80"/>
+               <pb n="8" facs="unknown:024370_0008_0FC629723A165C80"/>
                <head>IX. DIRECTIONS.</head>
                <p>The First Object of the Pupil is to make a Perpendi<g ref="char:EOLhyphen"/>cular stroke; that is<g ref="char:punc">▪</g> to divest himself of the Habit of making all Characters sloping; a practice probably contract<g ref="char:EOLhyphen"/>ed from the frequent use of the usual Text, Round, and Running Hands.</p>
                <p>The Alphabet is required to be committed to memory so perfectly, as to be written without the least Hesitation, and as Expeditiously as Three or Four times a Minute.— It is also requisite that the Words in the Third Column, which the Letters of the Alphabet represent, should be committed perfectly to Memory.</p>
@@ -235,7 +235,7 @@
                <p>The Circular S is only to be written in the middle of a Word; except before T at the beginning. At the end it always stands for -<hi>ing</hi> or -<hi>ong.</hi>
                </p>
                <p>
-                  <pb n="9" facs="tcp:024370_0009_0FC62973984FC528"/>When the Letter R does not begin a Word, it is ex<g ref="char:EOLhyphen"/>pressed by a Scratch, and, as often as possible, upwards.</p>
+                  <pb n="9" facs="unknown:024370_0009_0FC62973984FC528"/>When the Letter R does not begin a Word, it is ex<g ref="char:EOLhyphen"/>pressed by a Scratch, and, as often as possible, upwards.</p>
                <figure/>
                <figure/>
                <p>The Characters for the Vowels are never written, but at the beginning of some Words where their Sound is re<g ref="char:EOLhyphen"/>quired to prevent ambiguity. The Vowels may also be omitted in the middle of any Word, if there is no other Word in the Language which differs from it in the Vowels only, thus WGS will stand for WAGES, because there are no such words as <hi>weges, wiges, woges,</hi> or <hi>wuges.</hi>
@@ -268,7 +268,7 @@
                </lg>
             </div>
             <div n="12" type="article">
-               <pb n="10" facs="tcp:024370_0010_0FC6297511D2F148"/>
+               <pb n="10" facs="unknown:024370_0010_0FC6297511D2F148"/>
                <head>XII. THE CHARACTERS FOR THE PERSONS.</head>
                <p>
                   <hi>He, it, <gap reason="illegible: indecipherable" extent="2 letters">
@@ -302,7 +302,7 @@
                   <floatingText xml:lang="eng">
                      <body>
                         <div type="observations">
-                           <pb n="11" facs="tcp:024370_0011_0FC6297FE475CD20"/>
+                           <pb n="11" facs="unknown:024370_0011_0FC6297FE475CD20"/>
                            <head>OBSERVATIONS.</head>
                            <p n="1">1. The Pupil will find the advantage of Copying the Characters in the Left-hand Column until he is quite per<g ref="char:EOLhyphen"/>fect, before he attempts their combination in the Right-hand Column.</p>
                            <p n="2">2. The Personal Pronouns will, in every instance, supply the defect of Persons in the Verbs, as <hi>I can, thou canst,</hi> &amp;c. not <hi>thou can.</hi>
@@ -326,7 +326,7 @@
             <div n="15" type="article">
                <head>XV. ARBITRARY CHARACTERS.</head>
                <p>A principal Advantage in this System of Short Hand, consists in the small number of Arbitrary and Contracted
-<pb n="12" facs="tcp:024370_0012_0FC629824FA93F30"/>
+<pb n="12" facs="unknown:024370_0012_0FC629824FA93F30"/>
 Characters; and in their conspicuity, by which they will be understood, fixed in memory, and read again at first sight.</p>
             </div>
             <div n="16" type="article">
@@ -346,7 +346,7 @@ Characters; and in their conspicuity, by which they will be understood, fixed in
             <div n="17" type="article">
                <head>XVII.</head>
                <p>Mr. <hi>Joseph Gurney</hi> has introduced the Letters in the common writing Alphabet as Arbitrary Characters in the later Editions of the Work, which seems to be a real Im<g ref="char:EOLhyphen"/>provement. The present Editor has formed them into a double Alphabet of Capital and Small Letters, by which he has been enabled to adopt all his significations, has ad<g ref="char:EOLhyphen"/>ded
-<pb n="13" facs="tcp:024370_0013_0FC6298352B0DDC8"/>
+<pb n="13" facs="unknown:024370_0013_0FC6298352B0DDC8"/>
 a few of his own, and furnished the Pupil with an Ex<g ref="char:EOLhyphen"/>ercise for his Ingenuity by leaving several Characters va<g ref="char:EOLhyphen"/>cant, to be supplied from his own Fancy, or the necessary Exigencies of his profession, as in the following scheme.</p>
             </div>
             <div n="18" type="article">
@@ -478,7 +478,7 @@ a few of his own, and furnished the Pupil with an Ex<g ref="char:EOLhyphen"/>erc
                </list>
             </div>
             <div type="contents_of_plate">
-               <pb n="14" facs="tcp:024370_0014_0FC62985E56E6D90"/>
+               <pb n="14" facs="unknown:024370_0014_0FC62985E56E6D90"/>
                <head>PLATE THE SEVENTH.</head>
                <p>
                   <hi>CONTENTS.</hi> Specimen of <hi>Genesis i. 1—21,</hi> writ<g ref="char:EOLhyphen"/>ten according to the preceding Theory.</p>
@@ -494,7 +494,7 @@ a few of his own, and furnished the Pupil with an Ex<g ref="char:EOLhyphen"/>erc
                <p n="2">2. The Words, or parts of Words, in Italic, are written from some Contraction, Arbitrary Character or Abbreviat<g ref="char:EOLhyphen"/>ing Rule in the first, second, fifth or sixth Plates.</p>
                <p n="3">3. Omissions, &amp;c. are denoted by *, Contraries by ), and Repetitions by —.</p>
                <p n="4">
-                  <pb n="15" facs="tcp:024370_0015_0FC6298720BE5EB8"/>4. The Figures have the same signification as in Common Arithmetic, and the Writing Letters are taken from <hi>Art. XVIII.</hi>
+                  <pb n="15" facs="unknown:024370_0015_0FC6298720BE5EB8"/>4. The Figures have the same signification as in Common Arithmetic, and the Writing Letters are taken from <hi>Art. XVIII.</hi>
                </p>
             </div>
             <div n="21" type="article">
@@ -584,7 +584,7 @@ a few of his own, and furnished the Pupil with an Ex<g ref="char:EOLhyphen"/>erc
                   </gap>th, which the <hi>wtrs brt frth abndntly</hi> after thr <hi>knd,</hi> and every wingd <hi>fol</hi> after his <hi>knd:</hi> and God <hi>saw</hi> that it <hi>ws</hi> good.</p>
             </div>
             <div type="contents_of_plate">
-               <pb n="16" facs="tcp:024370_0016_0FC6298CC2678A20"/>
+               <pb n="16" facs="unknown:024370_0016_0FC6298CC2678A20"/>
                <head>PLATE THE EIGHTH. </head>
                <p>
                   <hi>CONTENTS.</hi> Specimen of <hi>Genesis i. 22—31, </hi>the<hi> Apos<g ref="char:EOLhyphen"/>tles' Creed, </hi>and the<hi> Lord's Prayer.</hi>
@@ -643,7 +643,7 @@ a few of his own, and furnished the Pupil with an Ex<g ref="char:EOLhyphen"/>erc
                   </p>
                </div>
                <div type="sample">
-                  <pb n="17" facs="tcp:024370_0017_0FC6298DD6A29610"/>
+                  <pb n="17" facs="unknown:024370_0017_0FC6298DD6A29610"/>
                   <head>The <hi>LORD'S PRAYER.</hi>
                   </head>
                   <p>
@@ -684,7 +684,7 @@ a few of his own, and furnished the Pupil with an Ex<g ref="char:EOLhyphen"/>erc
                </div>
             </div>
             <div n="24" type="article">
-               <pb n="18" facs="tcp:024370_0018_0FC6299785B380D0"/>
+               <pb n="18" facs="unknown:024370_0018_0FC6299785B380D0"/>
                <head>XXIV. CHARACTER OF A TRUE FRIEND.</head>
                <div type="part">
                   <p>CONCERNING the Man you call your Friend—tell me, Will he weep with you in the hour of your distress? Will he faithfully reprove you to your face, for actions for which others are ridiculing or censur<g ref="char:EOLhyphen"/>ing you behind your back? Will he dare to stand forth in your defence, when detraction is secretly aiming its deadly weapons at your reputation? Will he acknowledge you with the same cordiality, and behave to you with the same friendly attention, in the company of your superiors in rank and fortune, as when the claims of pride or vanity do not interfere with those of friendship? If misfortunes and losses should oblige you to retire into a walk of life, in which you can<g ref="char:EOLhyphen"/>not appear with the same distinction, or entertain your friends with the same liberality as formerly, will he still think himself happy in your so<g ref="char:EOLhyphen"/>ciety, and, instead of gradually with<g ref="char:EOLhyphen"/>drawing himself from an unprofitable connection, take pleasure in profes<g ref="char:EOLhyphen"/>sing himself your friend, and cheer<g ref="char:EOLhyphen"/>fully assist you to support the burden of your afflictions? When sickness shall call you to retire from the gay and busy scenes of the world, will he follow you into your gloomy retreat, listen with attention to your "tale of symptoms," and minister the balm of consolation to your fainting spirit? And, lastly, when death shall burst asunder every tie, will he shed a tear upon your grave, and lodge the dear remembrance of your mutual friend<g ref="char:EOLhyphen"/>ship in his heart, as a treasure never to be resigned? The man who will not do all this, may be your companion —your flatterer—your seducer—but, believe me, he is not your friend.</p>
@@ -716,7 +716,7 @@ a few of his own, and furnished the Pupil with an Ex<g ref="char:EOLhyphen"/>erc
                </div>
             </div>
             <div n="25" type="article">
-               <pb n="19" facs="tcp:024370_0019_0FC629992721E608"/>
+               <pb n="19" facs="unknown:024370_0019_0FC629992721E608"/>
                <head>CONCLUSION. XXV.</head>
                <p>THE WHOLE THEORY is contained in part of the First, the Second, Fifth and Sixth Plates;—the other Five contain SPECIMENS OF THE PRACTICE.</p>
             </div>
@@ -737,7 +737,7 @@ a few of his own, and furnished the Pupil with an Ex<g ref="char:EOLhyphen"/>erc
                <p>In order for Expedition, the writer is advised to the use of an hard-nibbed pen.</p>
             </div>
             <div n="30" type="article">
-               <pb n="20" facs="tcp:024370_0020_0FC6299ADFE0B4A0"/>
+               <pb n="20" facs="unknown:024370_0020_0FC6299ADFE0B4A0"/>
                <head>XXX.</head>
                <p>He is to consider whether each Word, or any part of it, is to be formed from the Letters of the Alphabet, in the first Plate, or whether from any Arbitrary, or Con<g ref="char:EOLhyphen"/>tracted Character, or Rule, in the other Plates.—It may also be observed, that after some Practice and Experience, little, or no difficulty, will occur in the Reading, if every particular is not so minutely attended to.</p>
                <p>Thus, in PLATE X. in the fourth line of the <hi>Orna<g ref="char:EOLhyphen"/>ments of Youth,</hi> the word <hi>Injuries</hi> has the S mar<g ref="char:EOLhyphen"/>ked downwards, contrary to the direction in <hi>Art. X.</hi>
@@ -755,7 +755,7 @@ a few of his own, and furnished the Pupil with an Ex<g ref="char:EOLhyphen"/>erc
 for <hi>people</hi> or <hi>been;</hi> but in the Combination of Words, or their Association into Sentences, ambiguity can seldom arise; for, (as in the above instance) <hi>people</hi> is a Noun and generally comes be<g ref="char:EOLhyphen"/>fore the Verb, whereas <hi>been</hi> is a Participle following the Preterite Auxiliary <hi>have.</hi>
                </p>
                <p>Languages themselves are not exempt from Ambi<g ref="char:EOLhyphen"/>guities of this kind; thus, for instance, in the
-<pb n="21" facs="tcp:024370_0021_0FC6299E71A244B0"/>
+<pb n="21" facs="unknown:024370_0021_0FC6299E71A244B0"/>
 English, when the word BEAR occurs, it is the sense or the Grammatical Construction that must determine whether it means <hi>to carry, to bring forth,</hi> or <hi>the animal</hi> of that name; and in the Latin Tongue, the word <hi>sine</hi> may be either a Preposition, or the Imperative Mood of the Verb <hi>sino,</hi> &amp;c.</p>
             </div>
             <div n="33" type="article">
@@ -780,7 +780,7 @@ English, when the word BEAR occurs, it is the sense or the Grammatical Construct
       </body>
       <back>
          <div type="list_of_books">
-            <pb facs="tcp:024370_0022_0FC6299FD04E54E8"/>
+            <pb facs="unknown:024370_0022_0FC6299FD04E54E8"/>
             <head>BOOKS — By the same Author.</head>
             <head type="sub">Sold by T. DOBSON, Philadelphia, and the principal Booksellers in the United States.</head>
             <list>
@@ -797,55 +797,55 @@ English, when the word BEAR occurs, it is the sense or the Grammatical Construct
          </div>
          <div type="plates">
             <p>
-               <pb facs="tcp:024370_0023_0FC629A2294097B8"/>
+               <pb facs="unknown:024370_0023_0FC629A2294097B8"/>
                <figure>
                   <head>PLATE I.</head>
                </figure>
             </p>
             <p>
-               <pb facs="tcp:024370_0024_0FC629A45C4ECBB0"/>
+               <pb facs="unknown:024370_0024_0FC629A45C4ECBB0"/>
                <figure>
                   <head>PLATE II.</head>
                </figure>
             </p>
             <p>
-               <pb facs="tcp:024370_0025_0FC629ACC2308C00"/>
+               <pb facs="unknown:024370_0025_0FC629ACC2308C00"/>
                <figure>
                   <head>PLATE III.</head>
                </figure>
             </p>
             <p>
-               <pb facs="tcp:024370_0026_0FC629AF331CEA48"/>
+               <pb facs="unknown:024370_0026_0FC629AF331CEA48"/>
                <figure>
                   <head>PLATE IIII.</head>
                </figure>
             </p>
             <p>
-               <pb facs="tcp:024370_0027_0FC629B2B2A10770"/>
+               <pb facs="unknown:024370_0027_0FC629B2B2A10770"/>
                <figure>
                   <head>PLATE V.</head>
                </figure>
             </p>
             <p>
-               <pb facs="tcp:024370_0028_0FC629B4D2BCC0C0"/>
+               <pb facs="unknown:024370_0028_0FC629B4D2BCC0C0"/>
                <figure>
                   <head>PLATE VI.</head>
                </figure>
             </p>
             <p>
-               <pb facs="tcp:024370_0029_0FC629B6B27ED588"/>
+               <pb facs="unknown:024370_0029_0FC629B6B27ED588"/>
                <figure>
                   <head>PLATE VII.</head>
                </figure>
             </p>
             <p>
-               <pb facs="tcp:024370_0030_0FC629B9DB4BC718"/>
+               <pb facs="unknown:024370_0030_0FC629B9DB4BC718"/>
                <figure>
                   <head>PLATE VIII.</head>
                </figure>
             </p>
             <p>
-               <pb facs="tcp:024370_0031_0FC629BB1E640B68"/>
+               <pb facs="unknown:024370_0031_0FC629BB1E640B68"/>
                <figure>
                   <head>PLATE X.</head>
                </figure>
